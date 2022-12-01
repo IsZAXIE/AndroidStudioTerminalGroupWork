@@ -1,1 +1,2 @@
 # AndroidStudioTerminalGroupWork
+我们组的程序在master分支下，请移步到master分支下查看。
